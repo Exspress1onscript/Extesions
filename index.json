@@ -1,13 +1,14 @@
-
 [
   {
     "name": "Tachiyomi: ManhwaClan",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwaclan",
-    "apk": "apks/tachiyomi-en.manhwaclan.apk",
+    "apk": "tachiyomi-en.manhwaclan.apk",
     "lang": "en",
     "code": 2,
     "version": "1.4.2",
     "nsfw": 1,
+    "hasReadme": false,
+    "hasChangelog": false,
     "sources": [
       {
         "name": "ManhwaClan",
