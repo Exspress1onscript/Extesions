@@ -7,8 +7,6 @@
     "code": 2,
     "version": "1.4.2",
     "nsfw": 1,
-    "hasReadme": false,
-    "hasChangelog": false,
     "sources": [
       {
         "name": "ManhwaClan",
@@ -17,6 +15,5 @@
         "baseUrl": "https://manhwaclan.com",
         "versionId": 1
       }
-    ]
-  }
-]
+    
+  
