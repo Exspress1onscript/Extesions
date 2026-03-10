@@ -16,9 +16,7 @@
         "versionId": 1
       }
     ]
-  }
-]
-[
+  },
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
